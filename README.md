@@ -1,7 +1,5 @@
 # Furniture Layout Planner
 
-An AI-powered furniture layout optimization tool that uses fuzzy logic to create optimal room layouts based on furniture relationships, ergonomics, and design principles.
-
 ## Features
 
 - **Intelligent Furniture Placement**: Optimizes furniture arrangements based on spatial relationships and design principles
