@@ -1,0 +1,3860 @@
+[
+  {
+    "id": 0,
+    "room": {
+      "width": 17,
+      "height": 11
+    },
+    "furniture": [
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "room": {
+      "width": 10,
+      "height": 16
+    },
+    "furniture": [
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "room": {
+      "width": 9,
+      "height": 20
+    },
+    "furniture": [
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "room": {
+      "width": 14,
+      "height": 9
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "room": {
+      "width": 17,
+      "height": 17
+    },
+    "furniture": [
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "room": {
+      "width": 13,
+      "height": 16
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "room": {
+      "width": 18,
+      "height": 10
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "room": {
+      "width": 14,
+      "height": 16
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "room": {
+      "width": 9,
+      "height": 12
+    },
+    "furniture": [
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "room": {
+      "width": 17,
+      "height": 11
+    },
+    "furniture": [
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "room": {
+      "width": 17,
+      "height": 13
+    },
+    "furniture": [
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "room": {
+      "width": 18,
+      "height": 10
+    },
+    "furniture": [
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "room": {
+      "width": 14,
+      "height": 16
+    },
+    "furniture": [
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "room": {
+      "width": 14,
+      "height": 19
+    },
+    "furniture": [
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "room": {
+      "width": 14,
+      "height": 18
+    },
+    "furniture": [
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "room": {
+      "width": 17,
+      "height": 9
+    },
+    "furniture": [
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "room": {
+      "width": 18,
+      "height": 15
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "room": {
+      "width": 15,
+      "height": 8
+    },
+    "furniture": [
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "room": {
+      "width": 15,
+      "height": 15
+    },
+    "furniture": [
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "room": {
+      "width": 19,
+      "height": 18
+    },
+    "furniture": [
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "room": {
+      "width": 15,
+      "height": 19
+    },
+    "furniture": [
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "room": {
+      "width": 14,
+      "height": 10
+    },
+    "furniture": [
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "room": {
+      "width": 11,
+      "height": 13
+    },
+    "furniture": [
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "room": {
+      "width": 19,
+      "height": 13
+    },
+    "furniture": [
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "room": {
+      "width": 15,
+      "height": 8
+    },
+    "furniture": [
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "room": {
+      "width": 18,
+      "height": 9
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "room": {
+      "width": 15,
+      "height": 18
+    },
+    "furniture": [
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "room": {
+      "width": 8,
+      "height": 18
+    },
+    "furniture": [
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "room": {
+      "width": 9,
+      "height": 13
+    },
+    "furniture": [
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "room": {
+      "width": 15,
+      "height": 18
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "room": {
+      "width": 11,
+      "height": 10
+    },
+    "furniture": [
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "room": {
+      "width": 19,
+      "height": 19
+    },
+    "furniture": [
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "room": {
+      "width": 14,
+      "height": 12
+    },
+    "furniture": [
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "room": {
+      "width": 13,
+      "height": 15
+    },
+    "furniture": [
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "room": {
+      "width": 13,
+      "height": 9
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "room": {
+      "width": 20,
+      "height": 15
+    },
+    "furniture": [
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "room": {
+      "width": 20,
+      "height": 9
+    },
+    "furniture": [
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "room": {
+      "width": 19,
+      "height": 12
+    },
+    "furniture": [
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "room": {
+      "width": 18,
+      "height": 15
+    },
+    "furniture": [
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "room": {
+      "width": 14,
+      "height": 20
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "room": {
+      "width": 15,
+      "height": 17
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "room": {
+      "width": 10,
+      "height": 12
+    },
+    "furniture": [
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "room": {
+      "width": 13,
+      "height": 12
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "room": {
+      "width": 15,
+      "height": 11
+    },
+    "furniture": [
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "room": {
+      "width": 12,
+      "height": 15
+    },
+    "furniture": [
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "room": {
+      "width": 8,
+      "height": 10
+    },
+    "furniture": [
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "room": {
+      "width": 12,
+      "height": 9
+    },
+    "furniture": [
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "room": {
+      "width": 13,
+      "height": 19
+    },
+    "furniture": [
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "room": {
+      "width": 14,
+      "height": 9
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "room": {
+      "width": 14,
+      "height": 17
+    },
+    "furniture": [
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "room": {
+      "width": 13,
+      "height": 12
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "room": {
+      "width": 14,
+      "height": 9
+    },
+    "furniture": [
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "room": {
+      "width": 17,
+      "height": 18
+    },
+    "furniture": [
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "room": {
+      "width": 20,
+      "height": 10
+    },
+    "furniture": [
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "room": {
+      "width": 20,
+      "height": 19
+    },
+    "furniture": [
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "room": {
+      "width": 8,
+      "height": 15
+    },
+    "furniture": [
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "room": {
+      "width": 16,
+      "height": 17
+    },
+    "furniture": [
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "room": {
+      "width": 16,
+      "height": 11
+    },
+    "furniture": [
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "room": {
+      "width": 19,
+      "height": 8
+    },
+    "furniture": [
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "room": {
+      "width": 8,
+      "height": 11
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "room": {
+      "width": 19,
+      "height": 16
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "room": {
+      "width": 10,
+      "height": 11
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "room": {
+      "width": 12,
+      "height": 15
+    },
+    "furniture": [
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "room": {
+      "width": 15,
+      "height": 9
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "room": {
+      "width": 18,
+      "height": 14
+    },
+    "furniture": [
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "room": {
+      "width": 11,
+      "height": 9
+    },
+    "furniture": [
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "room": {
+      "width": 15,
+      "height": 13
+    },
+    "furniture": [
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "room": {
+      "width": 13,
+      "height": 10
+    },
+    "furniture": [
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "room": {
+      "width": 15,
+      "height": 12
+    },
+    "furniture": [
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "room": {
+      "width": 17,
+      "height": 20
+    },
+    "furniture": [
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "room": {
+      "width": 15,
+      "height": 18
+    },
+    "furniture": [
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "room": {
+      "width": 10,
+      "height": 11
+    },
+    "furniture": [
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "room": {
+      "width": 12,
+      "height": 20
+    },
+    "furniture": [
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "room": {
+      "width": 17,
+      "height": 9
+    },
+    "furniture": [
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "room": {
+      "width": 18,
+      "height": 15
+    },
+    "furniture": [
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "room": {
+      "width": 16,
+      "height": 18
+    },
+    "furniture": [
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "room": {
+      "width": 15,
+      "height": 14
+    },
+    "furniture": [
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "room": {
+      "width": 13,
+      "height": 16
+    },
+    "furniture": [
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "room": {
+      "width": 18,
+      "height": 12
+    },
+    "furniture": [
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "room": {
+      "width": 19,
+      "height": 12
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "room": {
+      "width": 18,
+      "height": 9
+    },
+    "furniture": [
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "room": {
+      "width": 12,
+      "height": 13
+    },
+    "furniture": [
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "room": {
+      "width": 10,
+      "height": 19
+    },
+    "furniture": [
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "room": {
+      "width": 17,
+      "height": 17
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "room": {
+      "width": 13,
+      "height": 13
+    },
+    "furniture": [
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "room": {
+      "width": 18,
+      "height": 14
+    },
+    "furniture": [
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "room": {
+      "width": 15,
+      "height": 14
+    },
+    "furniture": [
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "room": {
+      "width": 9,
+      "height": 15
+    },
+    "furniture": [
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "room": {
+      "width": 18,
+      "height": 10
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "room": {
+      "width": 20,
+      "height": 19
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "room": {
+      "width": 8,
+      "height": 15
+    },
+    "furniture": [
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "room": {
+      "width": 15,
+      "height": 20
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "room": {
+      "width": 15,
+      "height": 14
+    },
+    "furniture": [
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "room": {
+      "width": 19,
+      "height": 18
+    },
+    "furniture": [
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "room": {
+      "width": 9,
+      "height": 20
+    },
+    "furniture": [
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "room": {
+      "width": 11,
+      "height": 17
+    },
+    "furniture": [
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "room": {
+      "width": 10,
+      "height": 11
+    },
+    "furniture": [
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "room": {
+      "width": 8,
+      "height": 14
+    },
+    "furniture": [
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "room": {
+      "width": 8,
+      "height": 20
+    },
+    "furniture": [
+      {
+        "name": "Armchair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Sofa",
+        "width": 3,
+        "height": 1,
+        "orientations": 2
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "TV Stand",
+        "width": 2,
+        "height": 1,
+        "orientations": 1
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "room": {
+      "width": 18,
+      "height": 13
+    },
+    "furniture": [
+      {
+        "name": "Dining Chair",
+        "width": 1,
+        "height": 1,
+        "orientations": 1
+      },
+      {
+        "name": "Dining Table",
+        "width": 2,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Bookshelf",
+        "width": 1,
+        "height": 2,
+        "orientations": 1
+      },
+      {
+        "name": "Coffee Table",
+        "width": 2,
+        "height": 1,
+        "orientations": 2
+      }
+    ]
+  }
+]
